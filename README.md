@@ -193,6 +193,7 @@ Add your screenshots here after running the project.
 ### 🏠 Main Menu
 
 ![Main Menu](main-menu.png)
+![Main Menu](main-menus.png)
 
 ---
 
