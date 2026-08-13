@@ -192,29 +192,7 @@ Add your screenshots here after running the project.
 
 ### 🏠 Main Menu
 
-```text
-![Main Menu](screenshots/main-menu.png)
-```
-
-### ➕ Add Patient
-
-```text
-![Add Patient](screenshots/add-patient.png)
-```
-
-### 📋 View Patients
-
-```text
-![View Patients](screenshots/view-patients.png)
-```
-
-### 🔍 Search Patient
-
-```text
-![Search Patient](screenshots/search-patient.png)
-```
-
-> 💡 Create a `screenshots` folder in your repository and place your actual screenshots there using the filenames above.
+![Main Menu](main-menu.png)
 
 ---
 
